@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\bin\Debug\net6.0\OperadoresAritméticos.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\bin\Debug\net6.0\OperadoresAritméticos.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\bin\Debug\net6.0\OperadoresAritméticos.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\bin\Debug\net6.0\OperadoresAritméticos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\bin\Debug\net6.0\OperadoresAritméticos.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\refint\OperadoresAritméticos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\OperadoresAritméticos.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\OperadoresAritméticos\obj\Debug\net6.0\ref\OperadoresAritméticos.dll

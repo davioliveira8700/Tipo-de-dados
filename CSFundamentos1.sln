@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTipos1", "ConversaoTipos1\ConversaoTipos1.csproj", "{39B268C9-1D05-4D00-AA17-3A962A23F067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{5FF32FF7-F155-4A89-8F38-D35517F4BC48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDeDados\EntradaDeDados.csproj", "{5FF32FF7-F155-4A89-8F38-D35517F4BC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritméticos", "OperadoresAritméticos\OperadoresAritméticos.csproj", "{04117ACB-A447-42D7-8240-9C6C95FB3374}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{5FF32FF7-F155-4A89-8F38-D35517F4BC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF32FF7-F155-4A89-8F38-D35517F4BC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF32FF7-F155-4A89-8F38-D35517F4BC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04117ACB-A447-42D7-8240-9C6C95FB3374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04117ACB-A447-42D7-8240-9C6C95FB3374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04117ACB-A447-42D7-8240-9C6C95FB3374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04117ACB-A447-42D7-8240-9C6C95FB3374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
