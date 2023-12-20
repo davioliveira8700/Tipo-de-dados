@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\bin\Debug\net6.0\InferênciaTipos.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\bin\Debug\net6.0\InferênciaTipos.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\bin\Debug\net6.0\InferênciaTipos.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\bin\Debug\net6.0\InferênciaTipos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\bin\Debug\net6.0\InferênciaTipos.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\refint\InferênciaTipos.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\InferênciaTipos.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InferênciaTipos\obj\Debug\net6.0\ref\InferênciaTipos.dll
