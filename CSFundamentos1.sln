@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritméticos", "OperadoresAritméticos\OperadoresAritméticos.csproj", "{04117ACB-A447-42D7-8240-9C6C95FB3374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferênciaTipos", "InferênciaTipos\InferênciaTipos.csproj", "{F52415E0-55D0-4D1D-9405-78496A9F7B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferênciaTipos", "InferênciaTipos\InferênciaTipos.csproj", "{F52415E0-55D0-4D1D-9405-78496A9F7B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuicao", "OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{5EEDB47C-B065-45CD-855A-D09EF6787C10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F52415E0-55D0-4D1D-9405-78496A9F7B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F52415E0-55D0-4D1D-9405-78496A9F7B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F52415E0-55D0-4D1D-9405-78496A9F7B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEDB47C-B065-45CD-855A-D09EF6787C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEDB47C-B065-45CD-855A-D09EF6787C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEDB47C-B065-45CD-855A-D09EF6787C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEDB47C-B065-45CD-855A-D09EF6787C10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
