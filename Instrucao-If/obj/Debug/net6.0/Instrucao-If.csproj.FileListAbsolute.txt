@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\bin\Debug\net6.0\Instrucao-If.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\bin\Debug\net6.0\Instrucao-If.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\bin\Debug\net6.0\Instrucao-If.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\bin\Debug\net6.0\Instrucao-If.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\bin\Debug\net6.0\Instrucao-If.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\refint\Instrucao-If.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\Instrucao-If.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-If\obj\Debug\net6.0\ref\Instrucao-If.dll
