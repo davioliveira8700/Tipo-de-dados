@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\bin\Debug\net6.0\Switch2.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\bin\Debug\net6.0\Switch2.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\bin\Debug\net6.0\Switch2.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\bin\Debug\net6.0\Switch2.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\bin\Debug\net6.0\Switch2.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\refint\Switch2.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\Switch2.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Switch2\obj\Debug\net6.0\ref\Switch2.dll
