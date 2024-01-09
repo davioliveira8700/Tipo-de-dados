@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\bin\Debug\net6.0\Instrucao-ifelse.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\bin\Debug\net6.0\Instrucao-ifelse.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\bin\Debug\net6.0\Instrucao-ifelse.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\bin\Debug\net6.0\Instrucao-ifelse.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\bin\Debug\net6.0\Instrucao-ifelse.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\refint\Instrucao-ifelse.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\Instrucao-ifelse.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\Instrucao-ifelse\obj\Debug\net6.0\ref\Instrucao-ifelse.dll
