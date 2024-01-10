@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\bin\Debug\net6.0\InstrucaoFor.exe
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\bin\Debug\net6.0\InstrucaoFor.deps.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\bin\Debug\net6.0\InstrucaoFor.runtimeconfig.json
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\bin\Debug\net6.0\InstrucaoFor.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\bin\Debug\net6.0\InstrucaoFor.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\refint\InstrucaoFor.dll
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.pdb
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\InstrucaoFor.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\CursoC#\Projetos\CSFundamentos1\InstrucaoFor\obj\Debug\net6.0\ref\InstrucaoFor.dll
